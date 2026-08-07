@@ -1,4 +1,10 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#36BCF7;">Omkar Ombale</span></h1>
+<div align="center">
+
+# 👋 Hi, I'm **Omkar Ombale**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Enthusiast;Learning+%7C+Building+%7C+Deploying" />
+
+</div>
 
 ### 💻 Computer Science Student | Aspiring DevOps & Cloud Engineer
 
