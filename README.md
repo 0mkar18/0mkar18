@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Omkar Ombale
 
-<!--
-**0mkar18/0mkar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Aspiring DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about **Cloud Computing, DevOps, Software Development, and Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, learning new technologies, and exploring how modern applications are developed, deployed, and managed using cloud and DevOps tools.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- ☁️ Interested in **Cloud Computing & DevOps**
+- 🐧 Learning **Linux**
+- 🔄 Learning **CI/CD & Automation**
+- 🐳 Learning **Docker & Containerization**
+- 🌐 Interested in **AWS / Azure / Google Cloud**
+- 🔧 Working with **Git & GitHub**
+- 💻 Building projects to improve my practical skills
+- 🎯 Goal: Become a **Cloud / DevOps Engineer**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming
+`Python` `Java` `C` `C++` `JavaScript`
+
+### 🌐 Web Development
+`HTML` `CSS` `JavaScript`
+
+### ☁️ Cloud & DevOps
+`Git` `GitHub` `Linux` `Docker` `CI/CD` `Cloud Computing`
+
+### 🗄️ Database
+`MySQL`
+
+### 🔧 Tools
+`VS Code` `Git` `GitHub`
+
+---
+
+## 📚 Currently Learning
+
+```text
+Linux
+  ↓
+Git & GitHub
+  ↓
+Networking
+  ↓
+Docker
+  ↓
+CI/CD
+  ↓
+Cloud Computing
+  ↓
+AWS / Azure / GCP
+  ↓
+Kubernetes
+  ↓
+Terraform
