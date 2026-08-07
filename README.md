@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&lines=Omkar" alt="Omkar" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&center=true&vCenter=true&width=300&lines=Omkar" alt="Omkar" />
+</p>
 
 ### 💻 Computer Science Student | Aspiring DevOps & Cloud Engineer
 
